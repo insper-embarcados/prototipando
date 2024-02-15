@@ -1,4 +1,4 @@
-> [👈 Voltar para Home](.../README.md)
+> [👈 Voltar para Home](../README.md)
 
 # Joystick
 
