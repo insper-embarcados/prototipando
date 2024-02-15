@@ -1,11 +1,11 @@
 # Botões
 
-Lista de botões disponíveis no Laboratório de Sistemas Embarcados(?)
+Lista de botões disponíveis no Laboratório Arquitetura de Computadores
 
-| Botão       | 3D         | SVG        | DXF        |
-|-------------|------------|------------|------------|
-| Arcade      | [f3d]("/") | [svg]("/") | [dxf]("/") |
-| Gangorra    | [f3d]("/") | [svg]("/") | [dxf]("/") |
-| Joystick    | [f3d]("/") | [svg]("/") | [dxf]("/") |
-| Push Button | [f3d]("/") | [svg]("/") | [dxf]("/") |
+| Botão                              | 3D         | SVG        | DXF        |
+|------------------------------------|------------|------------|------------|
+| [Arcade](./arcade/arcade.md)       | [f3d]("/") | [svg]("/") | [dxf]("/") |
+| [Gangorra](./gangorra/gangorra.md) | [f3d]("/") | [svg]("/") | [dxf]("/") |
+| [Joystick](./joystick/joystick.md) | [f3d]("/") | [svg]("/") | [dxf]("/") |
+| [Push Button](./push/push.md)      | [f3d]("/") | [svg]("/") | [dxf]("/") |
     

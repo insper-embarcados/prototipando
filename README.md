@@ -2,9 +2,8 @@
 
 Neste repositório você ira encontrar uma lista de sensores e atuadores disponíveis no laboratório, assim como sugestões de como adicionalos a caixa do projeto.
 
-- [Sensores](/sensores/):
-- [Botões](/sensores/botoes/botoes.md)
-
+- [Sensores](/sensores/sensores.md):
+  - [Botões](/sensores/botoes/botoes.md)
 - [Atuadores](/atuadores/)
 
 
